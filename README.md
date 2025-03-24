@@ -8,7 +8,7 @@
 ![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickTrindade123&show_icons=true&theme=radical)
 
 
-## Tecnologias que eu uso no meu dia a dia.
+## Minhas skills
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
